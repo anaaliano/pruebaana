@@ -1,0 +1,32 @@
+{
+	"id": "BANK1",
+	"clients": [
+		{
+		"nif": "11111111A",
+		"name": "CLIENT1",
+		"accounts": [
+			{
+				"accountNumber": "12334545656756756678",
+				"amount": "1200",
+				"transfers":[
+				]
+			},
+			{	"accountNumber": "12334545656756756678",
+				"amount": "1200",
+				"transfers":[]
+			}
+		]
+		},
+		{
+		"nif": "22222222C",
+		"name": "CLIENT2",
+		"accounts": [
+			{
+				"accountNumber": "12334545656756756678",
+				"amount": "1200",
+				"transfers":[]
+			}
+		]
+		}
+	]
+}
